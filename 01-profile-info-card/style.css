@@ -1,0 +1,29 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+body,html{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+
+}
+
+#main{
+    margin: 60px;
+   height: 300px;
+   width: 300px;
+     background: linear-gradient(to right,rgb(63, 79, 63),rgb(60, 66, 57));
+     color: aliceblue;
+     padding: 10px;
+     /* box-shadow:  beige 10px 10px ; */
+   
+     box-shadow :  blanchedalmond 6px 9px  10px;
+  
+}
+
+.name{
+    padding-top: 6px;
+    font-size: 20px;
+}
